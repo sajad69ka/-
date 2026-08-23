@@ -1,0 +1,6 @@
+{
+  "name": "Batch Excel Sheet Merger",
+  "description": "Offline tool to merge or inject a specific Excel sheet into hundreds of nested Excel files while preserving formatting and folder hierarchy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
